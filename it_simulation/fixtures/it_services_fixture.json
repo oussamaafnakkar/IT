@@ -1,0 +1,20 @@
+[
+    {
+        "model": "it_simulation.itservice",
+        "pk": 1,
+        "fields": {
+            "name": "IT Service A",
+            "description": "Mock IT service A.",
+            "cost": "1000"
+        }
+    },
+    {
+        "model": "it_simulation.itservice",
+        "pk": 2,
+        "fields": {
+            "name": "IT Service B",
+            "description": "Mock IT service B.",
+            "cost": "2000"
+        }
+    }
+]
